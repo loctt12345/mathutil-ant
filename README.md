@@ -1,4 +1,4 @@
-# Wevome to Math-Utility Repository
+# Welcome to Math-Utility Repository
 ### You will find in this repo a Java project with the following features included
 * A demostration of using static to create a custom-library
 * A demonstration of using Unit Test technique based on JUnit Framework and an extra Unit Test technique DDT, TDD

@@ -1,3 +1,5 @@
+[![Practice CI with GitHub Actions using Ant and JUnit](https://github.com/loctt12345/mathutil-ant/actions/workflows/mathutil-ant-ci.yml/badge.svg)](https://github.com/loctt12345/mathutil-ant/actions/workflows/mathutil-ant-ci.yml)
+
 # Welcome to Math-Utility Repository
 ### You will find in this repo a Java project with the following features included
 * A demostration of using static to create a custom-library
